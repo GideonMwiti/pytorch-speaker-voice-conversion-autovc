@@ -1,0 +1,13 @@
+{
+  "speaker_embedding_cosine_similarity_target": 0.9345,
+  "similarity_male_to_female_target": 0.9478,
+  "similarity_female_to_male_target": 0.9213,
+  "speaker_embedding_cosine_similarity_source": 0.8044,
+  "similarity_male_to_female_source": 0.8608,
+  "content_phonetic_cosine_similarity": 0.9987,
+  "mel_cepstral_distortion_db": 6.95,
+  "mean_latency_ms": 19.82,
+  "std_latency_ms": 2.57,
+  "real_time_factor_rtf": 0.00968,
+  "real_time_speedup_factor": 103.3
+}
